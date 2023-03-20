@@ -30,3 +30,10 @@ predict
 * صحت مدل
 * ![4](https://user-images.githubusercontent.com/30187615/226227017-1325ee54-1974-48cd-b3fc-550c33227f34.PNG)
 
+
+* نمونه تست های انجام شده
+![5](https://user-images.githubusercontent.com/30187615/226227147-1f0988e8-cd50-4025-a51a-c93095ee52d9.PNG)
+
+
+![5](https://user-images.githubusercontent.com/30187615/226227160-ca91f207-82ca-405d-b4ae-eecd5d279aa9.PNG)
+![6](https://user-images.githubusercontent.com/30187615/226227165-e7295ef7-f25a-482d-adf2-72ea793c8131.PNG)
